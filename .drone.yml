@@ -1,3 +1,8 @@
 kind: pipeline
 type: docker
 name: droneTest
+
+
+platform:
+  os: linux
+  arch: amd64
