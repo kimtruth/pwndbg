@@ -1,6 +1,6 @@
 kind: pipeline
 type: docker
-name: test_name
+name: defaults
 
 - name: code-analysis
   image: aosapps/drone-sonar-plugin
